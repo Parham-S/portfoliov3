@@ -12,10 +12,14 @@ export default function About() {
         className="px-4"
       >
         <div className="mb-6 text-center font-mono text-gray-800 dark:text-white">
-        My name is Parham. I am a software engineer, Florida International University alumni, and recent graduate of Wyncode out of Miami, FL. I am a Former Marine, and Florida International University graduate. 
+          Hello! My name is Parham. I am a Former Marine, Florida International University alumni,
+          and recent graduate of Wyncode out of Miami, FL. South Florida is my home and programming
+          is my passion.
         </div>
         <div className="text-center font-mono text-gray-800 dark:text-white">
-          In addition to coding and learning new tech, I love sports, sports analytic, hanging with friends, and feeding a dangerous strawberry milk addiction.
+          When I'm not navigating through a sea of browser tabs, I spend my time keeping up with my
+          sports, sports analytic, hanging out with friends, and feeding my very dangerous YooHoo
+          addiction.
         </div>
       </motion.div>
     </Layout>
