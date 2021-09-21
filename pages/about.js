@@ -18,7 +18,7 @@ export default function About() {
         </div>
         <div className="text-center font-mono text-gray-800 dark:text-white">
           When I'm not navigating through a sea of browser tabs, I spend my time keeping up with my
-          sports, sports analytic, hanging out with friends, and feeding my very dangerous YooHoo
+          sports, sports analytic, hanging out with friends, and feeding my very dangerous Yoohoo
           addiction.
         </div>
       </motion.div>
