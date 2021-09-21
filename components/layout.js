@@ -73,9 +73,9 @@ export default function Layout({ children }) {
               ABOUT
             </button>
           </Link>
-          <Link href="/about">
+          <Link href="/projects">
             <button className="w-24 py-1 mx-1 text-xs leading-6 tracking-widest border border-gray-400 rounded-full dark:hover:border-pink-500 dark:border-white focus:outline-none hover:text-lightBlue-600 hover:border-lightBlue-600 dark:hover:text-pink-500">
-              CONTACT
+              PROJECTS
             </button>
           </Link>
         </motion.div>
