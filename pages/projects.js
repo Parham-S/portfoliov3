@@ -11,7 +11,9 @@ export default function Projects() {
         transition={{ duration: 0.5, delay: 0.2 }}
         className="flex flex-col items-center justify-center"
       >
-        <div>Under Construction</div>
+        <a href="https://github.com/Parham-S" target="_blank">
+          See Pinned Repositories
+        </a>
       </motion.div>
     </Layout>
   )
